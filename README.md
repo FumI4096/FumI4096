@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **related to programming**
 
-- ⚡ Fun fact **I'm still learning**
+- ⚡ Fun fact **I'm open to criticism and I'm willing to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
