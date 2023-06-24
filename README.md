@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fumi4096&label=Profile%20views&color=0e75b6&style=flat" alt="fumi4096" /> </p>
 
-- 🔭 I’m currently working on **Debugging Bots**
+- 🔭 I’m currently working on **setting up many things for my coding journey**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, C++ and Python**
 
