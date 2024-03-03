@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋! My name is Seimon Elias S. Maiquez and I'm a Student from Philippiness</h1>
-
-###
-
-<h2 align="left">Tools being using:</h2>
+<h3 align="left">Tools being using:</h3>
 
 ###
 
