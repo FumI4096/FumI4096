@@ -11,8 +11,8 @@
 ###
 
 <ul align="left">
-  <li>☀️ Currently learning machine learning using python, react and tailwind.</li>
-  <li>📖 Preparing for capstone project.</li>
+  <li>☀️ Currently gathering projects and making progress on his portfolio.</li>
+  <li>📖 Doing capstone with his group.</li>
 </ul>
 
 ###
