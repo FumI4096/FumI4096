@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=30&pause=1000&color=F7F7F7&center=true&width=500&height=80&lines=%22Pressure+makes+diamond%22;George+Patton+Jr.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bowlby+One&size=30&pause=1000&color=1FDDF7&center=true&width=600&lines=%22Pressure+makes+Diamonds%22;by+George+S.+Patton+Jr.)](https://git.io/typing-svg)
 
 </div>
 
