@@ -1,131 +1,89 @@
-<h3 align="center">Hi I am Seimon Elias S. Maiquez 👋</h3>
+<img src="banneradobe2.png" width="100%" alt="Banner" />
 
-###
-<hr>
-<br>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bowlby+One+SC&size=30&pause=1000&color=F7F7F7&center=true&width=500&height=80&lines=%22Pressure+makes+diamond%22;George+Patton+Jr.)](https://git.io/typing-svg)
 
+</div>
 
-<h3 align="left">Status as of now:</h3>
+</div>
+<h1 align="center">💡Get in Touch with me</h2>
 
-
-###
-
-<ul align="left">
-  <li>☀️ Currently gathering projects and making progress on his portfolio.</li>
-  <li>📖 Doing capstone with his group.</li>
-</ul>
-
-###
-<br>
-<hr>
-<br>
-
-<h3 align="left">💡Get in Touch:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/se1_mon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=instagram&label=@se1_mon&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://seimon.vercel.app">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/245870812463104000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=discord&label=wacoliwatani&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/seimon-maiquez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=linkedin&label=Seimon%20Maiquez&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://www.facebook.com/profile.php?id=100009346054880" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%E2%80%8E%20&logo=facebook&label=Mimon%20Maiquez&color=1877F2&logoColor=white&labelColor=1877F2&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://github.com/FumI4096">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-<br>
-
-###
-
-<h3 align="left">🎲 Coding With:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-</div>
+  <a href="https://www.facebook.com/mimon.maiquez/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/se1_mon/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://dev.to/seimon_maiquez_0b5f">
+	<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/1386668470200176792">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 <br>
+<br>
 
-###
-
-<h3 align="left">📚 Studying With:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+<h2 align="center">🧰My Toolbox</h2>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="40"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40"/>          
 </div>
 
 <br>
+<br>
 
-###
+<h2 align="center">🚀Currently Exploring & Building With</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> 
 
-<h3 align="left">🗒️ Others:</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
 </div>
 
-
-###
 <br>
-<hr>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fumi4096&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Fumi4096&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fumi4096&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c6pviovzkzcriulzwqyesgya74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+  </a>
+</p>
+
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Fumi4096/count.svg?"  />
-</div>
-<br>
-
-<hr>
-<br>
-
-###
-
-<h3 align="center">Cheers🥂</h3>
-
-###
