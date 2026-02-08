@@ -10,25 +10,25 @@
 <h1 align="center">💡Get in Touch with me</h2>
 
 <p align="center">
-  <a href="https://seimon.vercel.app">
+  <a href="https://seimon.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seimon-maiquez/">
+  <a href="https://www.linkedin.com/in/seimon-maiquez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/FumI4096">
+  <a href="https://github.com/FumI4096" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/mimon.maiquez/">
+  <a href="https://www.facebook.com/mimon.maiquez/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/se1_mon/">
+  <a href="https://www.instagram.com/se1_mon/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://dev.to/seimon_maiquez_0b5f">
+  <a href="https://dev.to/seimon_maiquez_0b5f" target="_blank">
 	<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://discordapp.com/users/1386668470200176792">
+  <a href="https://discordapp.com/users/1386668470200176792" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
